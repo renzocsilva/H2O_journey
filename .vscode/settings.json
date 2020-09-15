@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\Renzo\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.dataScience.jupyterServerURI": "local"
+}
