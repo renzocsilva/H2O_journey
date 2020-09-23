@@ -1,2 +1,2 @@
 # H2O_journey
-Exploring H2O.ai platform through micro-projects
+Exploring the H2O.ai platform and tools through micro-projects
